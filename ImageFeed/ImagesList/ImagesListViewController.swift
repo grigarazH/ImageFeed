@@ -20,6 +20,12 @@ class ImagesListViewController: UIViewController {
 
     @IBOutlet private var tableView: UITableView!
     
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        
+        tableView.contentInset = UIEdgeInsets(top: 12, left: 0, bottom: 12, right: 0)
+    }
+    
     func configCell(for cell: ImagesListCell, with indexPath: IndexPath) {
         guard let image = UIImage(named: photosName[indexPath.row]) else {return}
         cell.cellImage.image = image
@@ -27,12 +33,6 @@ class ImagesListViewController: UIViewController {
         cell.likeButton.setTitle("", for: .normal)
         let likeButtonImage = indexPath.row % 2 == 0 ? UIImage(named: "heart_active") : UIImage(named: "heart_inactive")
         cell.likeButton.setImage(likeButtonImage, for: .normal)
-    }
-    
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        
-        tableView.contentInset = UIEdgeInsets(top: 12, left: 0, bottom: 12, right: 0)
     }
 }
 
