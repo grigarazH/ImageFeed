@@ -23,7 +23,8 @@ class ImagesListViewController: UIViewController {
     func configCell(for cell: ImagesListCell, with indexPath: IndexPath) {
         guard let image = UIImage(named: photosName[indexPath.row]) else {return}
         cell.cellImage.image = image
-        cell.dateLabel.text = dateFormatter.string(from: Date.now)
+        cell.dateLabel.text = dateFormatter.string(from: Date())
+        cell.likeButton.setTitle("", for: .normal)
         let likeButtonImage = indexPath.row % 2 == 0 ? UIImage(named: "heart_active") : UIImage(named: "heart_inactive")
         cell.likeButton.setImage(likeButtonImage, for: .normal)
     }

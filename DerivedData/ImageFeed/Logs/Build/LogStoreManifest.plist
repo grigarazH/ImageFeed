@@ -40,6 +40,40 @@
 			<key>uniqueIdentifier</key>
 			<string>08DA3720-DC14-4BBE-8CD9-776D94C64AE7</string>
 		</dict>
+		<key>0CB8E8D6-D36A-47EB-B97D-2BBBCEF3B6D1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0CB8E8D6-D36A-47EB-B97D-2BBBCEF3B6D1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ImageFeed project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ImageFeed</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ImageFeed</string>
+			<key>timeStartedRecording</key>
+			<real>697475491.02228999</real>
+			<key>timeStoppedRecording</key>
+			<real>697475494.079193</real>
+			<key>title</key>
+			<string>Build ImageFeed</string>
+			<key>uniqueIdentifier</key>
+			<string>0CB8E8D6-D36A-47EB-B97D-2BBBCEF3B6D1</string>
+		</dict>
 		<key>3912AB40-7E48-40A0-ABB1-A1B957646943</key>
 		<dict>
 			<key>className</key>
@@ -141,6 +175,74 @@
 			<string>Build ImageFeed</string>
 			<key>uniqueIdentifier</key>
 			<string>714E2802-A9C7-4F25-9903-D7857A43BC3D</string>
+		</dict>
+		<key>86306B20-6EA3-4886-BA1B-F6AC78C4816F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>86306B20-6EA3-4886-BA1B-F6AC78C4816F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ImageFeed project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ImageFeed</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ImageFeed</string>
+			<key>timeStartedRecording</key>
+			<real>697475551.30070603</real>
+			<key>timeStoppedRecording</key>
+			<real>697475552.60349095</real>
+			<key>title</key>
+			<string>Build ImageFeed</string>
+			<key>uniqueIdentifier</key>
+			<string>86306B20-6EA3-4886-BA1B-F6AC78C4816F</string>
+		</dict>
+		<key>AB4CF541-7101-496C-98B9-5384F33B419B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AB4CF541-7101-496C-98B9-5384F33B419B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ImageFeed project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ImageFeed</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ImageFeed</string>
+			<key>timeStartedRecording</key>
+			<real>697475461.89448202</real>
+			<key>timeStoppedRecording</key>
+			<real>697475467.45065498</real>
+			<key>title</key>
+			<string>Build ImageFeed</string>
+			<key>uniqueIdentifier</key>
+			<string>AB4CF541-7101-496C-98B9-5384F33B419B</string>
 		</dict>
 		<key>C77A7D9A-20EA-4B77-BF19-61BC78839BDB</key>
 		<dict>
